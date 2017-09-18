@@ -1,2 +1,2 @@
 # hello-world
-learning web design with Codeacademy Pro Intensive
+learning how to edit branches and commit 
